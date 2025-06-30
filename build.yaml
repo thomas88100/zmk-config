@@ -19,5 +19,4 @@
 #
 ---
 board: ["seeeduino_xiao_ble"]
-include:
-  - board: thorium
+shield: ["thorium", "thorium_left", "thorium_right"]
